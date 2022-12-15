@@ -1,6 +1,7 @@
 # Compilers-Principles_Techniques_and_Tools_3rd
 
-The White Dragon Book - Compilers: Principles, Techniques, and Tools 3rd Edition 2023
+The White dragon book - Compilers: Principles, Techniques, and Tools 3rd Edition 2023
 
-see prev editions: purple dragon 2nd edition
-see prev editions: red dragon 1st edition
+see prev editions: 
+- Purple dragon book - 2nd edition
+- Red dragon book - 1st edition
